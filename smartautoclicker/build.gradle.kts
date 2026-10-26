@@ -39,7 +39,7 @@ obfuscationConfig {
     }
 
     setup(
-        applicationId = "com.buzbuz.smartautoclicker",
+        applicationId = "com.alex.loopr",
         appNameResId = "@string/app_name",
         shouldRandomize = buildParameters.randomizeAppId.typedValue &&
                 project.isBuildForVariant(KlickrFlavour.F_DROID),
