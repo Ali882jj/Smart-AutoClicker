@@ -17,7 +17,7 @@
 package com.buzbuz.smartautoclicker.application
 
 import android.app.Application
-import com.buzbuz.smartautoclicker.ComponentConfig
+import com.alex.loopr.ComponentConfig
 import com.buzbuz.smartautoclicker.core.base.data.AppComponentsManager
 import com.buzbuz.smartautoclicker.core.base.lifecycle.ActivityLifecycleTracker
 import com.google.android.material.color.DynamicColors
